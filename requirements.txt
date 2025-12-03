@@ -1,0 +1,10 @@
+# LangGraph and LangChain dependencies
+langgraph>=0.0.20
+langchain>=0.1.0
+langchain-google-genai>=0.0.6
+langchain-core>=0.1.0
+
+
+# Web search functionality
+duckduckgo-search>=4.0.0
+requests>=2.31.0
